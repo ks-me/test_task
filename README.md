@@ -1,3 +1,3 @@
 # test_task
-test task for Yandex position
+test task
 <br> Wikipedia 50 pages parsing
